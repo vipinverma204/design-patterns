@@ -1,4 +1,4 @@
-# Design Patterns - Erich Gamma, Richard Helm, Ralph Johnson, John VLISSIDES\
+# Design Patterns - Erich Gamma, Richard Helm, Ralph Johnson, John VLISSIDES
 ##
 ## Chapter 1: Introduction
 - ## 1.1: What is a Design Pattern?
